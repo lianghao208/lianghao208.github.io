@@ -1,2 +1,2 @@
 # lianghao208.github.io
-blog
+hello, blog
